@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Making by AsyncTask class</string>
+    <string name="No_predicted_outcomes">No predicted outcomes!</string>
+    <string name="done">Process done!</string>
+</resources>
